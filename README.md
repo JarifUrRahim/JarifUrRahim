@@ -1,34 +1,38 @@
-# G. K. M. Jarif Ur Rahim
+# G. K. M. Jarif Ur Rahim — Cognitive System Architect
 
-I work across education and technology, building and documenting practical software and human-centered AI systems. I lead **Rashik — The Awakening**, a Bangladesh-based initiative focused on learning, career development, and thoughtful use of technology.
+Educator · Bangladesh
 
-My current work explores safety-aware agent design, human approval boundaries, bilingual digital learning, and public-interest software. I prefer to describe each project by what its public record actually shows—especially where something is still a prototype or an early-stage concept.
+I work across education and technology, architecting and documenting practical software and human-centered AI systems. I develop this work through **Rashik — The Awakening**, an initiative focused on real-world learning, career development, and thoughtful use of technology.
 
-## Selected public work
+My current work focuses on safety-aware agent design, human approval boundaries, bilingual digital learning, and responsible system design. Each project below is described according to its current documented scope and development stage.
 
-### Prototypes and product work
+## Selected Public Work
 
-- **[AgentOS](https://github.com/JarifUrRahim/AgentOS)** — A traceable Python prototype exploring safety-aware agent orchestration, registered actions, risk checks, human approvals, workspace snapshots, and audit records. The repository documents its limitations: it is not a production system or a secured, end-to-end interoperability platform.
-- **[ONE — Human Clarity Workspace](https://github.com/JarifUrRahim/Rashik-Client-Project-Workflow-)** — Public-safe source and product documentation for a Bangla/English mobile workspace. The repository describes local-first reflection tools and optional online chat that requires user consent; it also documents the backend and operational boundaries.
-- **[NaBaB AI](https://github.com/JarifUrRahim/NaBaB_AI)** — An early architecture draft and proof of concept. Its README labels it an “Architecture Demo” and describes the full platform as not yet deployed; this profile does not present it as a production service.
+### Prototypes and Product Architecture
 
-### Book, documentation, and public archives
+- **[AgentOS](https://github.com/JarifUrRahim/AgentOS)** — A traceable Python architecture prototype exploring registered actions, risk checks, human approval gates, workspace snapshots, and audit records. The current API has no authentication or access-control layer; the repository advises keeping it bound to loopback and not exposing it to a network.
+- **[ONE — Human Clarity Workspace](https://github.com/JarifUrRahim/Rashik-Client-Project-Workflow-)** — Public source and documentation for a bilingual (Bangla/English) mobile workspace. It separates local reflection tools from optional online chat, which requires explicit user consent.
+- **[NaBaB AI / Project Qalb](https://github.com/JarifUrRahim/NaBaB_AI)** — An early-stage architecture demo and proof of concept exploring purpose-based action review. The complete platform is not deployed.
 
-- **[*Reconnecting Intelligence With The Soul: Agency, Responsibility, and System Design in the Age of AI*](https://github.com/JarifUrRahim/Jarifurrahim.one/blob/main/index.html)** — My living HTML book, listed as Edition 0.1 and credited to **G. K. M. Jarif Ur Rahim**. It explores agency, responsibility, and system design in the age of AI. The [public repository README](https://github.com/JarifUrRahim/Jarifurrahim.one/blob/main/README.md) records the full title, author, and edition.
-- **[Rashik Lab](https://github.com/JarifUrRahim/Rashik-One)** — A public archive for selected Rashik technology work, case studies, and evidence links.
-- **[Rashik — The Awakening](https://github.com/JarifUrRahim/Rashik-The-Awakening)** — Public website source. The repository is currently lightly documented; see its files and linked project pages for scope.
+### Writing and Theoretical Frameworks
 
-More case studies and writing are collected on my [portfolio](https://jarifurrahim.one/projects) and the [Rashik website](https://rashik.org/).
+- **[The Binary Interface of Consciousness: A Formal Mathematical and Theoretical Framework](https://doi.org/10.5281/zenodo.19116097)** — An independent theoretical preprint outlining my proposed framework. It is presented as theoretical work, not as peer-reviewed findings or established scientific consensus.
+- **[Reconnecting Intelligence With The Soul: Agency, Responsibility, and System Design in the Age of AI](https://zenodo.org/records/21895928)** — My living book on agency, responsibility, and system design in the age of AI, published on Zenodo.
 
-## Public profiles and records
+## Project Archive
 
-- [Personal website](https://jarifurrahim.one/)
-- [Rashik — The Awakening](https://rashik.org/)
-- [LinkedIn](https://www.linkedin.com/in/jarifurrahim)
+- **[Rashik Lab](https://github.com/JarifUrRahim/Rashik-One)** — Public archive of selected Rashik technology work, project documentation, and evidence links.
+- **[Rashik — The Awakening](https://rashik.org/)** — The public site for my work on learning, technology, and human development.
+- **[Portfolio and Writing](https://jarifurrahim.one/)**
+
+## Public Profiles and Records
+
 - [ORCID](https://orcid.org/0009-0004-0763-322X)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=SBKkN_gAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/jarifurrahim)
 - [Medium](https://medium.com/@jarifurrahim)
 - [X](https://x.com/JarifUrRahim)
 
-## Project status
+---
+*Timezone: UTC+06:00 (Dhaka)*
 
-Descriptions above reflect the scope and status documented in each linked repository. A public code repository is not, by itself, a claim of production deployment, third-party certification, award, approval, or endorsement. For projects whose source is not public, please use the linked case study and its available evidence rather than assuming that code is included here.
