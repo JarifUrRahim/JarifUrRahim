@@ -27,8 +27,8 @@ My current work focuses on safety-aware agent design, human approval boundaries,
 
 ## Client-Delivered Project Records
 
-- **[Daily News Bagerhat](https://jarifurrahim.one/projects/dailynewsbagerhat)** — The published case study identifies my role as Technical Consultant & Developer and links the project. I report that this news portal was sold to the client and continues to be used. It is separate from The Daily Ghoshana.
-- **[Fluent Learner](https://jarifurrahim.one/projects/fluent-learner)** — The published case study identifies my role as Developer & Strategic Consultant and describes the platform as handed over, client-owned, client-operated, and separate from Rashik. I report that it was sold and remains in use. Pricing is not repeated here.
+- **[Daily News Bagerhat](https://jarifurrahim.one/projects/dailynewsbagerhat)** — A delivered, usable regional-news client product, not a theory-only concept. The published case study identifies my role as Technical Consultant & Developer. I report that it was sold to the client and remains in use; it is separate from The Daily Ghoshana.
+- **[Fluent Learner](https://jarifurrahim.one/projects/fluent-learner)** — A published, usable client-owned/client-operated IELTS product, not a concept-only design. The case study reports a four-step enrollment flow, payment-confirmation workflow, admin tools, a six-day delivery, and 39 automated tests; it identifies my role as Developer & Strategic Consultant. **Correct sale price: BDT 6,000**, confirmed by me and shown in the [ORR project record](https://jarifurrahim.one/orr). The detailed case-study page remains useful for methods and handover, but its price display needs correction.
 - **The Daily Ghoshana** — My portfolio identifies me as a Staff Reporter for this registered publication. That is a separate professional affiliation, not the Daily News Bagerhat development case study.
 
 ## Public Profiles and Records
