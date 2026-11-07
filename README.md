@@ -23,7 +23,13 @@ My current work focuses on safety-aware agent design, human approval boundaries,
 
 - **[Rashik Lab](https://github.com/JarifUrRahim/Rashik-One)** — Public archive of selected Rashik technology work, project documentation, and evidence links.
 - **[Rashik — The Awakening](https://rashik.org/)** — The public site for my work on learning, technology, and human development.
-- **[Portfolio and Writing](https://jarifurrahim.one/)**
+- [Portfolio and Writing](https://jarifurrahim.one/)
+
+## Client-Delivered Project Records
+
+- **[Daily News Bagerhat](https://jarifurrahim.one/projects/dailynewsbagerhat)** — The published case study identifies my role as Technical Consultant & Developer and links the project. I report that this news portal was sold to the client and continues to be used. It is separate from The Daily Ghoshana.
+- **[Fluent Learner](https://jarifurrahim.one/projects/fluent-learner)** — The published case study identifies my role as Developer & Strategic Consultant and describes the platform as handed over, client-owned, client-operated, and separate from Rashik. I report that it was sold and remains in use. Pricing is not repeated here.
+- **The Daily Ghoshana** — My portfolio identifies me as a Staff Reporter for this registered publication. That is a separate professional affiliation, not the Daily News Bagerhat development case study.
 
 ## Public Profiles and Records
 
@@ -32,6 +38,7 @@ My current work focuses on safety-aware agent design, human approval boundaries,
 - [LinkedIn](https://www.linkedin.com/in/jarifurrahim)
 - [Medium](https://medium.com/@jarifurrahim)
 - [X](https://x.com/JarifUrRahim)
+- **Google Knowledge Graph reference (provided by me; association is not independently verified here and this link does not guarantee indexing or ranking):** [KGMID `/g/11z1lszj5x`](https://www.google.com/search?kgmid=/g/11z1lszj5x)
 
 ---
 *Timezone: UTC+06:00 (Dhaka)*
